@@ -1,6 +1,6 @@
 # Image Processing Project (COMP2032)
 
-This repository contains the Image Processing project for the Spring 2023-2024 Semester, part of the COMP2032 module. The project demonstrates various image processing techniques using Python.
+This repository contains the Image Processing project (Flower Segmentation) for the Spring 2023-2024 Semester, part of the COMP2032 module. The project demonstrates various image processing techniques using Python.
 
 ## Table of Contents
 * [Getting Started](#getting-started)
