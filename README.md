@@ -2,6 +2,14 @@
 
 This repository contains the Image Processing project for the Spring 2023-2024 Semester, part of the COMP2032 module. The project demonstrates various image processing techniques using Python.
 
+## Table of Contents
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Setting Up a Virtual Environment](#setting-up-a-virtual-environment)
+  * [Installing Dependencies](#installing-dependencies)
+* [Running the Project](#running-the-project)
+* [License](#license)
+
 ## Getting Started
 
 These instructions will guide you through setting up your project environment and running the project on your local machine for development and testing purposes.
